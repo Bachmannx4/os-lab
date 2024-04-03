@@ -1,4 +1,17 @@
 # ninja log v5
-1	136	7338288642744933	CMakeFiles/os_lab.dir/hellomake.c.obj	19aab4a1bb1933a9
-13	153	7338288642905238	CMakeFiles/os_lab.dir/hellofunc.c.obj	e52850f0a5621c0e
-154	387	7338288645180768	os_lab.exe	b63470f8d180fbaf
+4	260	7338348415418141	CMakeFiles/os_lab.dir/hellomake.c.obj	19aab4a1bb1933a9
+4	164	7338353312294999	CMakeFiles/os_lab.dir/c_array_main.c.obj	d38e5258a4b72072
+19	255	7338348415369167	CMakeFiles/os_lab.dir/hellofunc.c.obj	e52850f0a5621c0e
+145	321	7338356885659954	os_lab.exe	3d7862dfc1dcbbe7
+4	144	7338356883958168	CMakeFiles/os_lab.dir/c_arrays.c.obj	4e15ff2599d75204
+1	244	7338428163142652	build.ninja	600dcf572c3b321e
+3	526	7338428163142652	build.ninja	600dcf572c3b321e
+13	244	7338428166166115	CMakeFiles/os_lab.dir/Blatt_0/c_arrays.c.obj	e8e46821512f28dd
+0	247	7338428166190350	CMakeFiles/os_lab.dir/Blatt_0/c_array_main.c.obj	f69e773f01ceadee
+247	504	7338428168732782	os_lab.exe	ec38d97194c21c5
+2	96	7338428373934317	CMakeFiles/os_lab.dir/Blatt_0/c_arrays.c.obj	e8e46821512f28dd
+97	219	7338428375105652	os_lab.exe	ec38d97194c21c5
+2	94	7338428654092855	CMakeFiles/os_lab.dir/Blatt_0/c_arrays.c.obj	e8e46821512f28dd
+94	215	7338428655254956	os_lab.exe	ec38d97194c21c5
+2	94	7338428974270529	CMakeFiles/os_lab.dir/Blatt_0/c_arrays.c.obj	e8e46821512f28dd
+95	212	7338428975380917	os_lab.exe	ec38d97194c21c5

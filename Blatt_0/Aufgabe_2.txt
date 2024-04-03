@@ -1,0 +1,5 @@
+b) man kann die sektion auf verschiedene Weisen angeben, gängige Methoden sind man [Sektion] [Schlüsselwort], oder man Schlüsselwort(Sektion)
+
+printf mit man printf
+
+open mit man open(2)

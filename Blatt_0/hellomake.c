@@ -1,8 +1,5 @@
-//
-// Created by Bachm on 03/04/2024.
-//
 
-#include <hellomake.h>
+#include "Blatt_0/hellomake.h"
 
 int main() {
     // call a function in another file

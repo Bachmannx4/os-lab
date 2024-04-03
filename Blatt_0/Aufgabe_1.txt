@@ -1,0 +1,11 @@
+b) .h Dateien deklarieren Funktionen ohne diese zu definieren, diese Definition erfolgt in den .c Dateien.
+
+d) Zu beginn jedes Konsolencommands muss ein Tab sein
+
+e) “%.o: %.c $(DEPS)” definiert eine Regel für alle .o Dateien, welche besagt, dass die gegebene .o Datei abhängig von der .c Version dieser Datei und der in DEPS gegebenen .h Datei ist
+
+$@ entspricht der Datei links des :
+
+$< entspricht dem ersten Element in der dependencies Liste
+
+$ˆ entspricht der Datei rechts des :
