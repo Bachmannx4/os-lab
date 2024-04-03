@@ -1,5 +1,9 @@
-//
-// Created by Bachm on 03/04/2024.
-//
-
+#include <stdio.h>
+#include <stdlib.h>
 #include "Strings_main.h"
+
+int main(){
+    stringverarbeitung();
+    system("Pause");
+    return 0;
+}
