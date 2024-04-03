@@ -1,0 +1,3 @@
+C:/Users/Bachm/Desktop/os-lab/cmake-build-debug/CMakeFiles/os_lab.dir
+C:/Users/Bachm/Desktop/os-lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bachm/Desktop/os-lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir

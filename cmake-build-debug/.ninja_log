@@ -1,0 +1,4 @@
+# ninja log v5
+1	136	7338288642744933	CMakeFiles/os_lab.dir/hellomake.c.obj	19aab4a1bb1933a9
+13	153	7338288642905238	CMakeFiles/os_lab.dir/hellofunc.c.obj	e52850f0a5621c0e
+154	387	7338288645180768	os_lab.exe	b63470f8d180fbaf
